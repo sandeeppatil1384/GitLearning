@@ -9,6 +9,7 @@ public class LoginPageTest {
 		String pwd = "admin";
 		
 		System.out.println("logged in ...");
+		System.out.println("logged out ...");
 	}
 
 }
